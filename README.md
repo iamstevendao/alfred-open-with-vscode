@@ -9,6 +9,7 @@ works with Alfred 2, 3
 
 ## Usage
 - Clone this repo and install `Open-with-VSCode.alfredworkflow`
+OR: Download from Packal: [Open with VSCode](http://www.packal.org/workflow/open-vscode)
 - Open Alfred:
   ```bash
     code <folder-name>
