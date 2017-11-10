@@ -1,0 +1,1 @@
+# alfred-open-with-vscode
