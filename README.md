@@ -8,13 +8,13 @@
 works with Alfred 2, 3
 
 ## Usage
-- Clone this repo and install `Open-with-VSCode.alfredworkflow`
-OR: Download from Packal: [Open with VSCode](http://www.packal.org/workflow/open-vscode)
+- Clone this repo and install `Open-with-VSCode.alfredworkflow`  
+**OR**: Download from [Packal](http://www.packal.org/workflow/open-vscode)
 - Open Alfred:
   ```bash
     code <folder-name>
   ```
-  1. `return` to open with Visual Studio Code
-  2. `alt` + `return` to open in Finder 
+  - &#x23ce; (`return`) to open with Visual Studio Code
+  - &#x2325; (`option`) + &#x23ce; (`return`) to open in Finder 
 
-made with :heart: by [Steven](https://github.com/iamstevendao).
+made with &#x2764; by [Steven](https://github.com/iamstevendao).
