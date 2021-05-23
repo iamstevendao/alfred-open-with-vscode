@@ -5,7 +5,7 @@
 <img alt="open-with-vscode gif" src="https://thumbs.gfycat.com/TerrificPracticalAegeancat-size_restricted.gif"/>
 </p>
 
-works with Alfred 2, 3
+works with Alfred 2, 3, 4.
 
 ## Usage
 - Clone this repo and install `Open-with-VSCode.alfredworkflow`  
